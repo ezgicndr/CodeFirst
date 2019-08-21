@@ -1,0 +1,17 @@
+C:\Users\iau\source\repos\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\iau\source\repos\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\iau\source\repos\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\iau\source\repos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\iau\source\repos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iau\source\repos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\iau\source\repos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iau\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+C:\Users\iau\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Form1.resources
+C:\Users\iau\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Properties.Resources.resources
+C:\Users\iau\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache
+C:\Users\iau\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\iau\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\iau\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\iau\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+C:\Users\iau\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.initialasd.resources
+C:\Users\iau\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.StudentEdit.resources
